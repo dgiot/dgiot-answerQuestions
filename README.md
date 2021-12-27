@@ -8,7 +8,7 @@
 | -------------- | ----------------------------------------------------------------------------------------- |
 | 官网           | [https://www.iotn2n.com](https://www.iotn2n.com?from=git)                                 |
 | 博客           | [https://tech.iotn2n.com](https://tech.iotn2n.com?from=git)                               |
-| 公众号         | ![qrcode.png](http://dgiot-1253666439.cos.ap-shanghai-fsi.myqcloud.com/wechat/qrcode.png) |
+| 联系我们         | ![qrcode.png](http://pump.dgiotcloud.com/dgiot_file/evidence/image/fcf484cbc5.jpg) |
 
 ## **如果你觉得对你有帮助或者觉得有价值，请不要吝惜你的star**
 
